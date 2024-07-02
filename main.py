@@ -6,7 +6,6 @@ def getinput(n1, n2):
     print('At function end id n1', id(n1))
     print('At function end id n2', id(n2))
 
-
 def main():
     num1 = num2 = 0
     print('Before call function id n1', id(num1))
